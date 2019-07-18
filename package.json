@@ -5,6 +5,10 @@
     "version": "0.0.1",
     "publisher": "RicardoBenhossi",
     "url": "https://github.com/RicaBenhossi/spacegray-python",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RicaBenhossi/spacegray-python"
+    },
     "engines": {
         "vscode": "^1.36.0"
     },
