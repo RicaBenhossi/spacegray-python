@@ -3,6 +3,7 @@
     "displayName": "spacegray-python",
     "description": "A Spacegray theme based for python.",
     "version": "0.0.1",
+    "publisher": "RicardoBenhossi",
     "engines": {
         "vscode": "^1.36.0"
     },
