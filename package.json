@@ -1,0 +1,21 @@
+{
+    "name": "spacegray-python",
+    "displayName": "spacegray-python",
+    "description": "A Spacegray theme based for python.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spacegray Python",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spacegray Python-color-theme.json"
+            }
+        ]
+    }
+}
