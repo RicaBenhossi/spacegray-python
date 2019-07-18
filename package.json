@@ -4,6 +4,7 @@
     "description": "A Spacegray theme based for python.",
     "version": "0.0.1",
     "publisher": "RicardoBenhossi",
+    "icon": "image/python.png",
     "url": "https://github.com/RicaBenhossi/spacegray-python",
     "repository": {
         "type": "git",
