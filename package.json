@@ -2,7 +2,7 @@
     "name": "spacegray-python",
     "displayName": "spacegray-python",
     "description": "A Spacegray theme based for python.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "RicardoBenhossi",
     "icon": "image/python.png",
     "url": "https://github.com/RicaBenhossi/spacegray-python",
@@ -11,7 +11,7 @@
         "url": "https://github.com/RicaBenhossi/spacegray-python"
     },
     "engines": {
-        "vscode": "^1.36.0"
+        "vscode": "^1.37.0"
     },
     "categories": [
         "Themes"
