@@ -25,7 +25,9 @@
 		"tab.activeBorderTop": "#eeeeeeee",
 		"tab.border": "#55555555",
 		"tab.inactiveBackground": "#00000000",
-		"tab.inactiveForeground": "#c3c3c3"
+		"tab.inactiveForeground": "#c3c3c3",
+		"editorInlayHint.background": "#3d3d3d",
+		"editorInlayHint.foreground": "#9668ff"
 	},
 	"tokenColors": [
 	//Specific Python
