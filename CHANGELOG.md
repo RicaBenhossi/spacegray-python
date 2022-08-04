@@ -1,6 +1,9 @@
 # Change Log
 
-## [Unreleased]
+## [1.0.1] - 2022-08-04
+
+### Added
+- New color for InLayHints (background and foreground)
 
 ## [0.0.2] - 2019-07-19
 
